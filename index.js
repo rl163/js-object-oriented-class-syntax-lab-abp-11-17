@@ -21,5 +21,6 @@ class BoardMember{
   }
 }
 
-var mrPolished = new BoardMember('Mr. Polished', 'undefined', 'law')
+var mrPolished = new BoardMember('Mr. Polished', 'undefined', 'law');
+mrPolished.sayHi();
  
